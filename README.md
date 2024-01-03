@@ -22,7 +22,8 @@ print('Number of columns : ',len(x.axes[1]))
 ~~~
 
 ## OUTPUT:
-![WhatsApp Image 2024-01-03 at 07 16 21_ec1b0adc](https://github.com/Pandurusomu/Read-from-CSV/assets/148988619/4325978f-76c1-475c-942f-5cbaab059867)
+![WhatsApp Image 2024-01-03 at 07 49 33_5d83e164](https://github.com/Pandurusomu/Read-from-CSV/assets/148988619/71321c59-ec67-49f9-a9ce-fa3c7f18072e)
+
 
 
 ## RESULT:
